@@ -1,0 +1,128 @@
+Fri Sep  6 03:17:02 PM UTC 2024
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           383M     0  383M   0% /dev/shm
+tmpfs           154M  4.4M  149M   3% /run
+/dev/xvda4      8.8G  1.6G  7.3G  18% /
+/dev/xvda3      960M  168M  793M  18% /boot
+/dev/xvda2      200M  7.1M  193M   4% /boot/efi
+tmpfs            77M     0   77M   0% /run/user/1000
+               total        used        free      shared  buff/cache   available
+Mem:           765Mi       258Mi       197Mi       5.0Mi       429Mi       507Mi
+Swap:             0B          0B          0B
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN     
+tcp6       0      0 :::22                   :::*                    LISTEN     
+udp        0      0 127.0.0.1:323           0.0.0.0:*                          
+udp6       0      0 ::1:323                 :::*                               
+Fri Sep  6 03:19:55 PM UTC 2024
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           383M     0  383M   0% /dev/shm
+tmpfs           154M  4.4M  149M   3% /run
+/dev/xvda4      8.8G  1.6G  7.3G  18% /
+/dev/xvda3      960M  168M  793M  18% /boot
+/dev/xvda2      200M  7.1M  193M   4% /boot/efi
+tmpfs            77M     0   77M   0% /run/user/1000
+               total        used        free      shared  buff/cache   available
+Mem:           765Mi       259Mi       196Mi       5.0Mi       429Mi       506Mi
+Swap:             0B          0B          0B
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN     
+tcp6       0      0 :::22                   :::*                    LISTEN     
+udp        0      0 127.0.0.1:323           0.0.0.0:*                          
+udp6       0      0 ::1:323                 :::*                               
+Fri Sep  6 03:22:55 PM UTC 2024
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           383M     0  383M   0% /dev/shm
+tmpfs           154M  4.4M  149M   3% /run
+/dev/xvda4      8.8G  1.6G  7.3G  18% /
+/dev/xvda3      960M  168M  793M  18% /boot
+/dev/xvda2      200M  7.1M  193M   4% /boot/efi
+tmpfs            77M     0   77M   0% /run/user/1000
+               total        used        free      shared  buff/cache   available
+Mem:           765Mi       259Mi       196Mi       5.0Mi       429Mi       506Mi
+Swap:             0B          0B          0B
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN     
+tcp6       0      0 :::22                   :::*                    LISTEN     
+udp        0      0 127.0.0.1:323           0.0.0.0:*                          
+udp6       0      0 ::1:323                 :::*                               
+Fri Sep  6 03:26:36 PM UTC 2024
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           383M     0  383M   0% /dev/shm
+tmpfs           154M  4.4M  149M   3% /run
+/dev/xvda4      8.8G  1.6G  7.3G  18% /
+/dev/xvda3      960M  168M  793M  18% /boot
+/dev/xvda2      200M  7.1M  193M   4% /boot/efi
+tmpfs            77M     0   77M   0% /run/user/1000
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+               total        used        free      shared  buff/cache   available
+Mem:           765Mi       259Mi       196Mi       5.0Mi       429Mi       506Mi
+Swap:             0B          0B          0B
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN     
+tcp6       0      0 :::22                   :::*                    LISTEN     
+udp        0      0 127.0.0.1:323           0.0.0.0:*                          
+udp6       0      0 ::1:323                 :::*                               
+Fri Sep  6 03:30:57 PM UTC 2024
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           383M     0  383M   0% /dev/shm
+tmpfs           154M  4.4M  149M   3% /run
+/dev/xvda4      8.8G  1.6G  7.3G  18% /
+/dev/xvda3      960M  168M  793M  18% /boot
+/dev/xvda2      200M  7.1M  193M   4% /boot/efi
+tmpfs            77M     0   77M   0% /run/user/1000
+               total        used        free      shared  buff/cache   available
+Mem:           765Mi       259Mi       196Mi       5.0Mi       429Mi       506Mi
+Swap:             0B          0B          0B
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN     
+tcp6       0      0 :::22                   :::*                    LISTEN     
+udp        0      0 127.0.0.1:323           0.0.0.0:*                          
+udp6       0      0 ::1:323                 :::*                               
+Fri Sep  6 03:33:04 PM UTC 2024
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           383M     0  383M   0% /dev/shm
+tmpfs           154M  4.4M  149M   3% /run
+/dev/xvda4      8.8G  1.6G  7.3G  18% /
+/dev/xvda3      960M  168M  793M  18% /boot
+/dev/xvda2      200M  7.1M  193M   4% /boot/efi
+tmpfs            77M     0   77M   0% /run/user/1000
+               total        used        free      shared  buff/cache   available
+Mem:           765Mi       259Mi       196Mi       5.0Mi       429Mi       506Mi
+Swap:             0B          0B          0B
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN     
+tcp6       0      0 :::22                   :::*                    LISTEN     
+udp        0      0 127.0.0.1:323           0.0.0.0:*                          
+udp6       0      0 ::1:323                 :::*                               
+Fri Sep  6 03:35:59 PM UTC 2024
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           383M     0  383M   0% /dev/shm
+tmpfs           154M  4.4M  149M   3% /run
+/dev/xvda4      8.8G  1.6G  7.3G  18% /
+/dev/xvda3      960M  168M  793M  18% /boot
+/dev/xvda2      200M  7.1M  193M   4% /boot/efi
+tmpfs            77M     0   77M   0% /run/user/1000
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+               total        used        free      shared  buff/cache   available
+Mem:           765Mi       259Mi       196Mi       5.0Mi       429Mi       506Mi
+Swap:             0B          0B          0B
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN     
+tcp6       0      0 :::22                   :::*                    LISTEN     
+udp        0      0 127.0.0.1:323           0.0.0.0:*                          
+udp6       0      0 ::1:323                 :::*                               
